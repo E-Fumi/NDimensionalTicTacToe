@@ -71,6 +71,7 @@ variable_names = ['v.game_dimensions',
                   'v.game_dimensions',
                   'v.game_dimensions',
                   'v.game_dimensions',
+                  'v.game_dimensions',
                   'v.pure_game',
                   'v.pure_game',
                   'v.multiple_win',
@@ -80,13 +81,13 @@ variable_names = ['v.game_dimensions',
                   # 'v.player',
                   # 'v.player']
 
-values = [0, 1, 2, 3, 4, 5, 6,
+values = [0, 1, 2, 3, 4, 5, 6, 7,
           True, False,
           True, False]
           # True, False,
           # 0, 1]
 
-offsets = [[-3, 27], [29, 27], [61, 27], [93, 27], [125, 27], [157, 27], [189, 27],
+offsets = [[-3, 27], [29, 27], [61, 27], [93, 27], [125, 27], [157, 27], [189, 27], [221, 27],
            [-3, 97], [29, 97],
            [-3, 167], [29, 167]]
            # [-3, 237], [29, 237],
