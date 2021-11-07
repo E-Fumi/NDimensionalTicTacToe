@@ -10,5 +10,5 @@ It is here because I think it showcases a nice idea, but it is no longer represe
 
 # Requirements
 
-numpy\n
+numpy<br/>
 pygame
