@@ -1,7 +1,7 @@
-# NDimensionalTicTacToe
+# N-Dimensional Tic Tac Toe
 A two-player game of tic tac toe that can be played in an arbitrary number of dimensions.
 
-![alt-text](https://i.im.ge/2021/11/06/otnudr.gif)
+![alt-text](https://i.im.ge/2021/11/07/oEpLuW.gif)
 
 # Disclaimer
 
