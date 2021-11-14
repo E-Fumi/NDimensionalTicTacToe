@@ -15,7 +15,7 @@ pygame
 
 # Usage
 
-`git clone https://github.com/E-Fumi/NDimensionalTicTacToe.git`
-`cd NDimensionalTicTacToe`
-`pip install -r requirements.txt`
+`git clone https://github.com/E-Fumi/NDimensionalTicTacToe.git`<br/>
+`cd NDimensionalTicTacToe`<br/>
+`pip install -r requirements.txt`<br/>
 `python main.py`
