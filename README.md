@@ -12,3 +12,10 @@ It is here because I think it showcases a nice idea, but it is no longer represe
 
 numpy<br/>
 pygame
+
+# Usage
+
+`git clone https://github.com/E-Fumi/NDimensionalTicTacToe.git`
+`cd NDimensionalTicTacToe`
+`pip install -r requirements.txt`
+`python main.py`
