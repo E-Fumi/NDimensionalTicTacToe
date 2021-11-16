@@ -10,6 +10,7 @@ It is here because I think it showcases a nice idea, but it is no longer represe
 
 # Requirements
 
+python 3.x <br/>
 numpy<br/>
 pygame
 
